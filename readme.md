@@ -110,11 +110,11 @@ This repository accompanies the paper [xxx](). It contains a curated list of Lar
 
 ### 📂 Personality  
 
-- (*Big Five*) **Is Self-knowledge and Action Consistent or Not: Investigating Large Language Model's Personality** [[paper](https://arxiv.org/abs/2402.14679)]
+- (*Big Five*) **Is Self-knowledge and Action Consistent or Not: Investigating Large Language Model's Personality** [[paper](https://arxiv.org/abs/2402.14679)] [ICML 2024]
 
 - (*Big Five*) **Can LLM Agents Maintain a Persona in Discourse?** [[paper](https://arxiv.org/abs/2502.11843)]
 
-- (*Big Five*) **Personality testing of large language models: limited temporal stability, but highlighted prosociality** [[paper](https://royalsocietypublishing.org/doi/full/10.1098/rsos.240180)]
+- (*Big Five*) **Personality testing of large language models: limited temporal stability, but highlighted prosociality** [[paper](https://royalsocietypublishing.org/doi/full/10.1098/rsos.240180)] [Royal Society Open Science]
 
 - (*Big Five*) **Identifying and Manipulating the Personality Traits of Language Models** [[paper](https://arxiv.org/abs/2212.10276)] [EMNLP 2023]
 
@@ -122,11 +122,11 @@ This repository accompanies the paper [xxx](). It contains a curated list of Lar
 
 - (*Big Five*) **LLM Agents in Interaction: Measuring Personality Consistency and Linguistic Alignment in Interacting Populations of Large Language Models** [[paper](https://arxiv.org/abs/2402.02896)] [EACL 2024]
 
-- (*Big Five*) **PersonaLLM: Investigating the Ability of Large Language Models to Express Personality Traits** [[paper](https://arxiv.org/abs/2305.02547)] [NAACL Findings 2024]
+- (*Big Five*) **PersonaLLM: Investigating the Ability of Large Language Models to Express Personality Traits** [[paper](https://arxiv.org/abs/2305.02547)] [NAACL 2024 Findings]
 
 - (*Big Five*) **Eliciting Personality Traits in Large Language Models** [[paper](https://arxiv.org/abs/2402.08341)]
 
-- (*Big Five*) **Revisiting the Reliability of Psychological Scales on Large Language Models** [[paper](https://arxiv.org/abs/2305.19926)]
+- (*Big Five*) **Revisiting the Reliability of Psychological Scales on Large Language Models** [[paper](https://arxiv.org/abs/2305.19926)] [[EMNLP 2024]]
 
 - (*Big Five*) **Evaluating and Inducing Personality in Pre-trained Language Models** [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/21f7b745f73ce0d1f9bcea7f40b1388e-Abstract-Conference.html)] [NeurIPS 2023]
 
@@ -138,7 +138,7 @@ This repository accompanies the paper [xxx](). It contains a curated list of Lar
 
 - (*Big Five*) **Open Models, Closed Minds? On Agents Capabilities in Mimicking Human Personalities through Open Large Language Model** [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/32125)] [AAAI 2025]
 
-- (*Big Five*) **Do LLMs Have Distinct and Consistent Personality? TRAIT: Personality Testset designed for LLMs with Psychometrics** [[paper](https://arxiv.org/abs/2406.14703)] [NAACL2025 Findings]
+- (*Big Five*) **Do LLMs Have Distinct and Consistent Personality? TRAIT: Personality Testset designed for LLMs with Psychometrics** [[paper](https://arxiv.org/abs/2406.14703)] [NAACL 2025 Findings]
 
 - (*Big Five*) **Evaluating Psychological Safety of Large Language Models** [[paper](https://arxiv.org/abs/2212.10529)] [EMNLP 2024]
 
@@ -165,7 +165,7 @@ This repository accompanies the paper [xxx](). It contains a curated list of Lar
 
 - (*Big Five*) **LMLPA: Language Model Linguistic Personality Assessment** [[paper](https://direct.mit.edu/coli/article/doi/10.1162/coli_a_00550/127544)] [Computational Linguistics]
 
-- (*Big Five*) **Dynamic Evaluation of Large Language Models by Meta Probing Agents** [[paper](https://arxiv.org/abs/2402.14865)] [[code](https://github.com/microsoft/promptbench)] []
+- (*Big Five*) **Dynamic Evaluation of Large Language Models by Meta Probing Agents** [[paper](https://arxiv.org/abs/2402.14865)] [[code](https://github.com/microsoft/promptbench)] [ICML 2024]
 
 - (*HEXACO*) **On the Psychology of GPT-4: Moderately anxious, slightly masculine, honest, and humble** [[paper](https://arxiv.org/abs/2402.01777)]
 
@@ -181,9 +181,9 @@ This repository accompanies the paper [xxx](). It contains a curated list of Lar
 
 - (*MBTI*) **Machine Mindset: An MBTI Exploration of Large Language Models** [[paper](https://arxiv.org/abs/2312.12999 )][[code](https://github.com/PKU-YuanGroup/Machine-Mindset)]
 
-- (*MBTI*) **Revisiting the Reliability of Psychological Scales on Large Language Models** [[paper](https://arxiv.org/abs/2305.19926)] [EMNLP Main 2024]
+- (*MBTI*) **Revisiting the Reliability of Psychological Scales on Large Language Models** [[paper](https://arxiv.org/abs/2305.19926)] [EMNLP 2024]
 
-- (*MBTI*) **Open Models, Closed Minds? On Agents Capabilities in Mimicking Human Personalities through Open Large Language Models** [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/32125)]  [AAAI 2025]
+- (*MBTI*) **Open Models, Closed Minds? On Agents Capabilities in Mimicking Human Personalities through Open Large Language Models** [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/32125)] [AAAI 2025]
 
 - (*MBTI*) **Illuminating the Black Box: A Psychometric Investigation into the Multifaceted Nature of Large Language Models** [[paper](https://arxiv.org/abs/2312.14202)]
 
@@ -199,7 +199,7 @@ This repository accompanies the paper [xxx](). It contains a curated list of Lar
 
 - (*DarkTriad*) **Who is ChatGPT? Benchmarking LLMs' Psychological Portrayal Using PsychoBench** [[paper](https://arxiv.org/abs/2310.01386)][[code](https://github.com/CUHK-ARISE/PsychoBench)] [ICLR 2024 Oral]
 
-- (*DarkTriad*) **Do LLMs Have Distinct and Consistent Personality? TRAIT: Personality Testset designed for LLMs with Psychometrics** [[paper](https://arxiv.org/abs/2406.14703)] [NAACL2025 Findings]
+- (*DarkTriad*) **Do LLMs Have Distinct and Consistent Personality? TRAIT: Personality Testset designed for LLMs with Psychometrics** [[paper](https://arxiv.org/abs/2406.14703)] [NAACL 2025 Findings]
 
 - (*DarkTriad*) **Evaluating Psychological Safety of Large Language Models** [[paper](https://arxiv.org/abs/2212.10529)]
 
@@ -211,13 +211,13 @@ This repository accompanies the paper [xxx](). It contains a curated list of Lar
 
 - (*Others & custom*) **Self-assessment, Exhibition, and Recognition: a Review of Personality in Large Language Models** [[paper](https://arxiv.org/abs/2406.17624)]
 
-- (*Others & custom*) **Is Self-knowledge and Action Consistent or Not: Investigating Large Language Model's Personality** [[paper](https://arxiv.org/abs/2402.14679)]
+- (*Others & custom*) **Is Self-knowledge and Action Consistent or Not: Investigating Large Language Model's Personality** [[paper](https://arxiv.org/abs/2402.14679)] [ICML 2024]
 
 - (*Others & custom*) **Evaluating and Inducing Personality in Pre-trained Language Models** [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/21f7b745f73ce0d1f9bcea7f40b1388e-Abstract-Conference.html)] [NeurIPS 2023]
 
 - (*Others & custom*) **Editing Personality For Large Language Models** [[paper](https://link.springer.com/chapter/10.1007/978-981-97-9434-8_19)] [NLPCC 2024]
 
-- (*Others & custom*) **Quantifying Risk Propensities of Large Language Models: Ethical Focus and Bias Detection through Role-Play** [[paper](https://arxiv.org/abs/2411.08884)] 
+- (*Others & custom*) **Quantifying Risk Propensities of Large Language Models: Ethical Focus and Bias Detection through Role-Play** [[paper](https://arxiv.org/abs/2411.08884)] [CogSci 2025]
 
 ### 📂 Values  
 
@@ -245,7 +245,7 @@ This repository accompanies the paper [xxx](). It contains a curated list of Lar
 
 - (*Schwartz*) **Value FULCRA: Mapping Large Language Models to the Multidimensional Spectrum of Basic Human Values** [[paper](https://arxiv.org/abs/2311.10766)] [ACL 2024]
 
-- (*Schwartz*) **Measuring Human and AI Values Based on Generative Psychometrics with Large Language Models** [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/34839)]
+- (*Schwartz*) **Measuring Human and AI Values Based on Generative Psychometrics with Large Language Models** [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/34839)] [AAAI 2025]
 
 - (*Schwartz*) **ValueDCG: Measuring Comprehensive Human Value Understanding Ability of Language Models** [[paper](https://arxiv.org/abs/2310.00378)]
 
@@ -263,7 +263,7 @@ This repository accompanies the paper [xxx](). It contains a curated list of Lar
 
 - (*VSM*) **ValueBench: Towards Comprehensively Evaluating Value Orientations and Understanding of Large Language Models** [[paper](https://arxiv.org/abs/2406.04214)][[code](https://github.com/Value4AI/ValueBench)] [ACL 2024]
 
-- (*VSM*) **Measuring Human and AI Values Based on Generative Psychometrics with Large Language Models** [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/34839)]
+- (*VSM*) **Measuring Human and AI Values Based on Generative Psychometrics with Large Language Models** [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/34839)] [AAAI 2025]
 
 - (*VSM*) **Cultural Value Differences of LLMs: Prompt, Language, and Model Size** [[paper](https://arxiv.org/abs/2407.16891)]
 
@@ -274,7 +274,7 @@ This repository accompanies the paper [xxx](). It contains a curated list of Lar
 - (*GLOBE*) **ValueBench: Towards Comprehensively Evaluating Value Orientations and Understanding of Large Language Models**
   [[paper](https://arxiv.org/abs/2406.04214)][[code](https://github.com/Value4AI/ValueBench)] [ACL 2024]
 
-- (*SVO*) **Heterogeneous Value Alignment Evaluation for Large Language Models** [[paper](https://arxiv.org/abs/2305.17147)][[code](https://github.com/zowiezhang/HVAE)] 
+- (*SVO*) **Heterogeneous Value Alignment Evaluation for Large Language Models** [[paper](https://arxiv.org/abs/2305.17147)][[code](https://github.com/zowiezhang/HVAE)] [AAAI 2024 Workshop]
 
 - (*Others & custom*) **Beyond Human Norms: Unveiling Unique Values of Large Language Models through Interdisciplinary Approaches** [[paper](https://arxiv.org/abs/2404.12744)]
 
@@ -298,7 +298,7 @@ This repository accompanies the paper [xxx](). It contains a curated list of Lar
 
 - (*MFT*) **Whose Morality Do They Speak? Unraveling Cultural Bias in Multilingual Language Models** [[paper](https://arxiv.org/abs/2412.18863)] 
 
-- (*MFT*) **Does Moral Code Have a Moral Code? Probing Delphi's Moral Philosophy** [[paper](https://arxiv.org/abs/2205.12771)] [Workshop @ NAACL 2022]
+- (*MFT*) **Does Moral Code Have a Moral Code? Probing Delphi's Moral Philosophy** [[paper](https://arxiv.org/abs/2205.12771)] [NAACL 2022 Workshop]
 
 - (*MFT*) **MoralBench: Moral Evaluation of LLMs** [[paper](https://arxiv.org/abs/2406.04428)][[code](https://github.com/agiresearch/MoralBench)]
 
@@ -306,21 +306,21 @@ This repository accompanies the paper [xxx](). It contains a curated list of Lar
 
 - (*MFT*) **Analyzing the Ethical Logic of Six Large Language Models** [[paper](https://arxiv.org/abs/2501.08951)]
 
-- (*MFT*) **Are Large Language Models Moral Hypocrites? A Study Based on Moral Foundations** [[paper](https://ojs.aaai.org/index.php/AIES/article/view/31704)]
+- (*MFT*) **Are Large Language Models Moral Hypocrites? A Study Based on Moral Foundations** [[paper](https://ojs.aaai.org/index.php/AIES/article/view/31704)] [AIES 2024]
 
 - (*MFT*) **AI Psychometrics: Assessing the Psychological Profiles of Large Language Models Through Psychometric Inventories** [[paper](https://journals.sagepub.com/doi/full/10.1177/17456916231214460)][[code](https://github.com/feradauto/MoralCoT)] [Perspectives on Psychological Science]
 
-- (*MFT*) **Moral Mimicry: Large Language Models Produce Moral Rationalizations Tailored to Political Identity** [[paper](https://arxiv.org/abs/2209.12106)]
+- (*MFT*) **Moral Mimicry: Large Language Models Produce Moral Rationalizations Tailored to Political Identity** [[paper](https://arxiv.org/abs/2209.12106)] [ACL 2023 Workshop]
 
-- (*MFT*) **Exploring and steering the moral compass of Large Language Models** [[paper](https://arxiv.org/abs/2405.17345)]
+- (*MFT*) **Exploring and steering the moral compass of Large Language Models** [[paper](https://arxiv.org/abs/2405.17345)] [ICPR 2024]
 
 - (*MFT*) **M3oralBench: A MultiModal Moral Benchmark for LVLMs** [[paper](https://arxiv.org/abs/2412.20718)]
 
 - (*MFT*) **CLAVE: An Adaptive Framework for Evaluating Values of LLM Generated Responses** [[paper](https://arxiv.org/abs/2407.10725)] [NeurIPS 2024]
 
-- (*MFT*) **Rethinking Machine Ethics -- Can LLMs Perform Moral Reasoning through the Lens of Moral Theories?** [[paper](https://arxiv.org/abs/2308.15399)]
+- (*MFT*) **Rethinking Machine Ethics -- Can LLMs Perform Moral Reasoning through the Lens of Moral Theories?** [[paper](https://arxiv.org/abs/2308.15399)] [NAACL 2024 Findings]
 
-- (*ETHICS*) **Despite "super-human" performance, current LLMs are unsuited for decisions about ethics and safety** [[paper](https://arxiv.org/abs/2212.06295)]
+- (*ETHICS*) **Despite "super-human" performance, current LLMs are unsuited for decisions about ethics and safety** [[paper](https://arxiv.org/abs/2212.06295)] [NeurIPS 2022 Workshop]
 
 - (*ETHICS*) **Inducing Human-like Biases in Moral Reasoning Language Models** [[paper](https://arxiv.org/abs/2411.15386)]
 
@@ -340,7 +340,7 @@ This repository accompanies the paper [xxx](). It contains a curated list of Lar
 
 - (*Others & Custom*) **The Moral Turing Test: Evaluating Human-LLM Alignment in Moral Decision-Making** [[paper](https://arxiv.org/abs/2410.07304)]
 
-- (*Others & Custom*) **Potential benefits of employing large language models in research in moral education and development** [[paper](https://www.tandfonline.com/doi/abs/10.1080/03057240.2023.2250570)]
+- (*Others & Custom*) **Potential benefits of employing large language models in research in moral education and development** [[paper](https://www.tandfonline.com/doi/abs/10.1080/03057240.2023.2250570)] [Journal of Moral Education]
 
 - (*Others & Custom*) **Moral Persuasion in Large Language Models: Evaluating Susceptibility and Ethical Alignment** [[paper](https://arxiv.org/abs/2411.11731)]
 
@@ -348,7 +348,7 @@ This repository accompanies the paper [xxx](). It contains a curated list of Lar
 
 - (*Others & Custom*) **When to Make Exceptions: Exploring Language Models as Accounts of Human Moral Judgment** [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/b654d6150630a5ba5df7a55621390daf-Abstract-Conference.html)][[code](https://github.com/feradauto/MoralCoT)] [NeurIPS 2022]
 
-- (*Others & Custom*) **Does Cross-Cultural Alignment Change the Commonsense Morality of Language Models?** [[paper](https://arxiv.org/abs/2406.16316)]
+- (*Others & Custom*) **Does Cross-Cultural Alignment Change the Commonsense Morality of Language Models?** [[paper](https://arxiv.org/abs/2406.16316)] [C3NLP 2024]
 
 - (*Others & Custom*) **Western, Religious or Spiritual: An Evaluation of Moral Justification in Large Language Models** [[paper](https://arxiv.org/abs/2311.07792)]
 
@@ -358,11 +358,11 @@ This repository accompanies the paper [xxx](). It contains a curated list of Lar
 
 - (*Others & Custom*) **Analyzing the Ethical Logic of Six Large Language Model** [[paper](https://arxiv.org/abs/2501.08951)]
 
-- (*Others & Custom*) **Extended Japanese Commonsense Morality Dataset with Masked Token and Label Enhancement** [[paper](https://dl.acm.org/doi/abs/10.1145/3627673.3679924)]
+- (*Others & Custom*) **Extended Japanese Commonsense Morality Dataset with Masked Token and Label Enhancement** [[paper](https://dl.acm.org/doi/abs/10.1145/3627673.3679924)] [CIKM '24 (Short Paper)]
 
 - (*Others & Custom*) **What does AI consider praiseworthy?** [[paper](https://link.springer.com/article/10.1007/s43681-025-00682-z)] [AI and Ethics]
 
-- (*Others & Custom*) **Knowledge of cultural moral norms in large language models** [[paper](https://arxiv.org/abs/2306.01857)]
+- (*Others & Custom*) **Knowledge of cultural moral norms in large language models** [[paper](https://arxiv.org/abs/2306.01857)] [ACL 2023]
 
 - (*Others & Custom*) **Normative Evaluation of Large Language Models with Everyday Moral Dilemmas** [[paper](https://arxiv.org/abs/2501.18081)]
 
@@ -418,13 +418,13 @@ This repository accompanies the paper [xxx](). It contains a curated list of Lar
 
 - (*PCT*) **The Self-Perception and Political Biases of ChatGPT** [[paper](https://onlinelibrary.wiley.com/doi/full/10.1155/2024/7115633)]
 
-- (*PCT*) **Revealing Fine-Grained Values and Opinions in Large Language Models** [[paper](https://arxiv.org/abs/2406.19238)]
+- (*PCT*) **Revealing Fine-Grained Values and Opinions in Large Language Models** [[paper](https://arxiv.org/abs/2406.19238)] [EMNLP 2024 Findings]
 
 - (*Others & custom*) **The Potential and Challenges of Evaluating Attitudes, Opinions, and Values in Large Language Models** [[paper](https://arxiv.org/abs/2406.11096)] [EMNLP 2024 Findings]
 
 - (*Others & custom*) **Beyond Prompt Brittleness: Evaluating the Reliability and Consistency of Political Worldviews in LLMs** [[paper](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00710/125176)] [Transactions of the Association for Computational Linguistics (TACL)]
 
-- (*Others & custom*) **Llama meets EU: Investigating the European Political Spectrum through the Lens of LLMs** [[paper](https://arxiv.org/abs/2403.13592)]
+- (*Others & custom*) **Llama meets EU: Investigating the European Political Spectrum through the Lens of LLMs** [[paper](https://arxiv.org/abs/2403.13592)] [NAACL 2024 (Short Paper)]
 
 - (*Others & custom*) **Questioning the Survey Responses of Large Language Models** [[paper](https://proceedings.neurips.cc/paper_files/paper/2024/hash/515c62809e0a29729d7eec26e2916fc0-Abstract-Conference.html)] [NeurIPS 2024]
 
@@ -444,7 +444,7 @@ This repository accompanies the paper [xxx](). It contains a curated list of Lar
 
 - (*Others & custom*) **Can large language models estimate public opinion about global warming? An empirical assessment of algorithmic fidelity and bias** [[paper](https://journals.plos.org/climate/article?id=10.1371/journal.pclm.0000429&utm)] [PLOS Climate]
 
-- (*Others & custom*) **How Accurate are GPT-3’s Hypotheses About Social Science Phenomena?** [[paper](https://link.springer.com/article/10.1007/s44206-023-00054-2)]
+- (*Others & custom*) **How Accurate are GPT-3’s Hypotheses About Social Science Phenomena?** [[paper](https://link.springer.com/article/10.1007/s44206-023-00054-2)] [Digital Society]
 
 - (*Others & custom*) **IssueBench: Millions of Realistic Prompts for Measuring Issue Bias in LLM Writing Assistance** [[paper](https://arxiv.org/abs/2502.08395)]
 
@@ -466,17 +466,17 @@ This repository accompanies the paper [xxx](). It contains a curated list of Lar
 
 - **Using cognitive psychology to understand GPT-3** [[paper](https://www.pnas.org/doi/abs/10.1073/pnas.2218523120)][[code](https://github.com/marcelbinz/GPT3goesPsychology)] [PNAS, Proceedings of the National Academy of Sciences]
 
-- **Examining Cognitive Biases in ChatGPT 3.5 and 4 through Human Evaluation and Linguistic Comparison** [[paper](https://aclanthology.org/2024.amta-research.21/)] 
+- **Examining Cognitive Biases in ChatGPT 3.5 and 4 through Human Evaluation and Linguistic Comparison** [[paper](https://aclanthology.org/2024.amta-research.21/)] [AMTA 2024]
 
 - **Do Emotions Really Affect Argument Convincingness? A Dynamic Approach with LLM-based Manipulation Checks** [[paper](https://arxiv.org/abs/2503.00024)]
 
 - **CogBench: a large language model walks into a psychology lab** [[paper](https://arxiv.org/abs/2402.18225)] [ICML 2024]
 
-- **Cognitive Bias in Decision-Making with LLMs** [[paper](https://arxiv.org/abs/2403.00811)]
+- **Cognitive Bias in Decision-Making with LLMs** [[paper](https://arxiv.org/abs/2403.00811)] [EMNLP 2024 Findings]
 
 - **Human-like intuitive behavior and reasoning biases emerged in large language models but disappeared in ChatGPT** [[paper](https://www.nature.com/articles/s43588-023-00527-x)] [Nature Computational Science]
 
-- **Relative Value Biases in Large Language Models** [[paper](https://arxiv.org/abs/2401.14530)]
+- **Relative Value Biases in Large Language Models** [[paper](https://arxiv.org/abs/2401.14530)] [CogSci 2024]
 
 - **Evaluating Nuanced Bias in Large Language Model Free Response Answers** [[paper](https://link.springer.com/chapter/10.1007/978-3-031-70242-6_36)] [NLDB 2024]
 
@@ -488,13 +488,11 @@ This repository accompanies the paper [xxx](). It contains a curated list of Lar
 
 - **Evaluating Cognitive Maps and Planning in Large Language Models with CogEval** [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/dc9d5dcf3e86b83e137bad367227c8ca-Abstract-Conference.html)] [NeurIPS 2023] 
 
-- **HANS, are you clever? Clever Hans Effect Analysis of Neural Systems** [[paper](https://aclanthology.org/2024.starsem-1.25.pdf)] [SEM 2024]
-
-- **Findings of the Association for Computational Linguistics:ACL2023** [[paper](https://aclanthology.org/2023.findings-acl.0.pdf)] 
+- **HANS, are you clever? Clever Hans Effect Analysis of Neural Systems** [[paper](https://aclanthology.org/2024.starsem-1.25.pdf)] [SEM 2024] 
 
 - **Metacognitive Myopia in Large Language Models** [[paper](https://arxiv.org/abs/2408.05568)]
 
-- **Visual cognition in multimodal large language models** [[paper](https://www.nature.com/articles/s42256-024-00963-y)]
+- **Visual cognition in multimodal large language models** [[paper](https://www.nature.com/articles/s42256-024-00963-y)] [nature machine intelligence]
 
 - **Development of Cognitive Intelligence in Pre-trained Language Models** [[paper](https://arxiv.org/abs/2407.01047)] [EMNLP 2023]
 
@@ -514,7 +512,7 @@ This repository accompanies the paper [xxx](). It contains a curated list of Lar
 
 ### 📂  Social interactions
 
-- (*Theory of Mind*) **Towards A Holistic Landscape of Situated Theory of Mind in Large Language Models** [[paper](https://arxiv.org/abs/2310.19619)][[code](https://github.com/Mars-tin/awesome-theory-of-mind)] [ EMNLP 2023 (Findings)]
+- (*Theory of Mind*) **Towards A Holistic Landscape of Situated Theory of Mind in Large Language Models** [[paper](https://arxiv.org/abs/2310.19619)][[code](https://github.com/Mars-tin/awesome-theory-of-mind)] [ EMNLP 2023 Findings]
 
 - (*Theory of Mind*) **A Review on Machine Theory of Mind** [[paper](https://ieeexplore.ieee.org/abstract/document/10679907)] [IEEE Transactions on Computational Social Systems]
 
@@ -522,15 +520,15 @@ This repository accompanies the paper [xxx](). It contains a curated list of Lar
 
 - (*Theory of Mind*) **Do LLMs Exhibit Human-Like Reasoning? Evaluating Theory of Mind in LLMs for Open-Ended Responses** [[paper](https://arxiv.org/abs/2406.05659)]
 
-- (*Theory of Mind*) **NegotiationToM: A Benchmark for Stress-testing Machine Theory of Mind on Negotiation Surrounding** [[paper](https://arxiv.org/abs/2404.13627)][[code](https://github.com/HKUST-KnowComp/NegotiationToM)] [EMNLP 2024 findings]
+- (*Theory of Mind*) **NegotiationToM: A Benchmark for Stress-testing Machine Theory of Mind on Negotiation Surrounding** [[paper](https://arxiv.org/abs/2404.13627)][[code](https://github.com/HKUST-KnowComp/NegotiationToM)] [EMNLP 2024 Findings]
 
 - (*Theory of Mind*) **Through the Theory of Mind's Eye: Reading Minds with Multimodal Video Large Language Models** [[paper](https://arxiv.org/abs/2406.13763)] 
 
 - (*Theory of Mind*) **Understanding Social Reasoning in Language Models with Language Models** [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/2b9efb085d3829a2aadffab63ba206de-Abstract-Datasets_and_Benchmarks.html)] [NeurIPS 2023]
 
-- (*Theory of Mind*) **HI-TOM: A Benchmark for Evaluating Higher-Order Theory of Mind Reasoning in Large Language Models** [[paper](https://arxiv.org/abs/2310.16755)] [Findings of EMNLP 2023]
+- (*Theory of Mind*) **HI-TOM: A Benchmark for Evaluating Higher-Order Theory of Mind Reasoning in Large Language Models** [[paper](https://arxiv.org/abs/2310.16755)] [EMNLP 2023 Findings]  
 
-- (*Theory of Mind*) **Does ChatGPT have Theory of Mind?** [[paper](https://arxiv.org/abs/2305.14020)] []
+- (*Theory of Mind*) **Does ChatGPT have Theory of Mind?** [[paper](https://arxiv.org/abs/2305.14020)] 
 
 - (*Theory of Mind*) **TimeToM: Temporal Space is the Key to Unlocking the Door of Large Language Models' Theory-of-Mind** [[paper](https://arxiv.org/abs/2407.01455)]
 
@@ -548,7 +546,7 @@ This repository accompanies the paper [xxx](). It contains a curated list of Lar
 
 - (*Theory of Mind*) **Theory of Mind for Multi-Agent Collaboration via Large Language Models** [[paper](https://arxiv.org/abs/2310.10701)][[code](https://github.com/romanlee6/multi_LLM_comm)] [EMNLP 2023]
 
-- (*Theory of Mind*) **Constrained Reasoning Chains for Enhancing Theory-of-Mind in Large Language Models** [[paper](https://link.springer.com/chapter/10.1007/978-981-96-0119-6_34)]
+- (*Theory of Mind*) **Constrained Reasoning Chains for Enhancing Theory-of-Mind in Large Language Models** [[paper](https://link.springer.com/chapter/10.1007/978-981-96-0119-6_34)] [PRICAI 2024]
 
 - (*Theory of Mind*) **Large Model Strategic Thinking, Small Model Efficiency: Transferring Theory of Mind in Large Language Models** [[paper](https://arxiv.org/abs/2408.05241)]
 
@@ -568,13 +566,13 @@ This repository accompanies the paper [xxx](). It contains a curated list of Lar
 
 - (*Theory of Mind*) **Minding Language Models' (Lack of) Theory of Mind: A Plug-and-Play Multi-Character Belief Tracker** [[paper](https://arxiv.org/abs/2306.00924)] [ACL 2023]
 
-- (*Theory of Mind*) **Clever Hans or Neural Theory of Mind? Stress Testing Social Reasoning in Large Language Models** [[paper](https://arxiv.org/abs/2305.14763)]
+- (*Theory of Mind*) **Clever Hans or Neural Theory of Mind? Stress Testing Social Reasoning in Large Language Models** [[paper](https://arxiv.org/abs/2305.14763)] [EACL 2024]
 
 - (*Theory of Mind*) **ToMATO: Verbalizing the Mental States of Role-Playing LLMs for Benchmarking Theory of Mind** [[paper](https://arxiv.org/abs/2501.08838)]
 
-- (*Theory of Mind*) **Views Are My Own, but Also Yours: Benchmarking Theory of Mind Using Common Ground** [[paper](https://arxiv.org/abs/2403.02451)] [ACL 2024 findings]
+- (*Theory of Mind*) **Views Are My Own, but Also Yours: Benchmarking Theory of Mind Using Common Ground** [[paper](https://arxiv.org/abs/2403.02451)] [ACL 2024 Findings]
 
-- (*Theory of Mind*) **Testing theory of mind in large language models and humans** [[paper](https://www.nature.com/articles/s41562-024-01882-z)]
+- (*Theory of Mind*) **Testing theory of mind in large language models and humans** [[paper](https://www.nature.com/articles/s41562-024-01882-z)] [nature human behaviour]
 
 - (*Theory of Mind*) **LLMsachieve adult human performance on higher-order theory of mind tasks** [[paper](https://d1wqtxts1xzle7.cloudfront.net/117167350/2405.18870-libre.pdf?1722582939=&response-content-disposition=inline%3B+filename%3DLLMs_achieve_adult_human_performance_on.pdf&Expires=1746178052&Signature=V7spfU9TSoU56em1dss1AGsXwrB9JMjYbl2uxAve-EgW8jDZxfr~8Yg28H43l-vV2ax66cNU0cl6WMsUOwpIbrUcuNAJgwyW0Cl25TmquqHNLw8oJoircaxS7RWGKlGDBmtyGQxMBPj2MN1ywtyI3ZbzSBGX~FOCV6RdoQ2XwtPL4SwSkYkGslhQvXNVqM23v5TjSE9D7BHJY7N49dHwbgVSWS9OnoWiFpEQUuReqFeNgcy0dsYt7~icE5noV-fv~gBw9yNi6~G8F~SdiVl99S4mTYuyanlHeCAvmY9NU2F7VLdq38MQubxMjXHQ1a~NpLwhhnVI5kEhjA0Ic0bNVg__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA)]
 
@@ -604,13 +602,13 @@ This repository accompanies the paper [xxx](). It contains a curated list of Lar
 
 - (*Emotional Intelligence*) **Large Language Models and Empathy: Systematic Review** [[paper](https://www.jmir.org/2024/1/e52597/)] [Journal of Medical Internet Research]
 
-- (*Emotional Intelligence*) **EmotionQueen: A Benchmark for Evaluating Empathy of Large Language Models** [[paper](https://arxiv.org/abs/2409.13359)] [ACL 2024 (Findings)]
+- (*Emotional Intelligence*) **EmotionQueen: A Benchmark for Evaluating Empathy of Large Language Models** [[paper](https://arxiv.org/abs/2409.13359)] [ACL 2024 Findings]
 
 - (*Emotional Intelligence*) **ChatGPT outperforms humans in emotional awareness evaluations** [[paper](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2023.1199058/full?refsite=undefined)] [Frontiers in Psychology , Emotion Science]
 
 - (*Emotional Intelligence*) **EmoBench-M: Benchmarking Emotional Intelligence for Multimodal Large Language Models** [[paper](https://arxiv.org/abs/2502.04424)][[code](https://emo-gml.github.io/)]
 
-- (*Emotional Intelligence*) **Emotionally Numb or Empathetic? Evaluating How LLMs Feel Using EmotionBench** [[paper](https://arxiv.org/abs/2308.03656)][[code](https://github.com/CUHK-ARISE/EmotionBench)] 
+- (*Emotional Intelligence*) **Emotionally Numb or Empathetic? Evaluating How LLMs Feel Using EmotionBench** [[paper](https://arxiv.org/abs/2308.03656)][[code](https://github.com/CUHK-ARISE/EmotionBench)] [NeurIPS 2024]
 
 - (*Emotional Intelligence*) **Large Language Models Produce Responses Perceived to be Empathic** [[paper](https://arxiv.org/abs/2403.18148)]
 
@@ -624,13 +622,13 @@ This repository accompanies the paper [xxx](). It contains a curated list of Lar
 
 - (*Emotional Intelligence*) **Exploring ChatGPT’s Empathic Abilities** [[paper](https://ieeexplore.ieee.org/abstract/document/10388208)] [ACII 2023]
 
-- (*Emotional Intelligence*) **The Emotional Intelligence of the GPT-4 Large Language Model** [[paper](https://cyberleninka.ru/article/n/the-emotional-intelligence-of-the-gpt-4-large-language-model)] 
+- (*Emotional Intelligence*) **The Emotional Intelligence of the GPT-4 Large Language Model** [[paper](https://cyberleninka.ru/article/n/the-emotional-intelligence-of-the-gpt-4-large-language-model)] [Psychology in Russia: State of the Art]
 
 - (*Emotional Intelligence*) **Are Large Language Models More Empathetic than Humans?** [[paper](https://arxiv.org/abs/2406.05063)] 
 
-- (*Emotional Intelligence*) **Both Matter: Enhancing the Emotional Intelligence of Large Language Models without Compromising the General Intelligence** [[paper](https://arxiv.org/abs/2402.10073)] [Findings of ACL 2024]
+- (*Emotional Intelligence*) **Both Matter: Enhancing the Emotional Intelligence of Large Language Models without Compromising the General Intelligence** [[paper](https://arxiv.org/abs/2402.10073)] [ACL 2024 Findings]
 
-- (*Social Intelligence*) **DeSIQ: Towards an Unbiased, Challenging Benchmark for Social Intelligence Understanding** [[paper](https://arxiv.org/abs/2310.18359)]
+- (*Social Intelligence*) **DeSIQ: Towards an Unbiased, Challenging Benchmark for Social Intelligence Understanding** [[paper](https://arxiv.org/abs/2310.18359)] [EMNLP 2023 ]
 
 - (*Social Intelligence*) **SocialAI 0.1: Towards a Benchmark to Stimulate Research on Socio-Cognitive Abilities in Deep Reinforcement Learning Agents** [[paper](https://arxiv.org/abs/2104.13207)][[code](https://sites.google.com/view/socialai01)] [NAACL ViGIL Workshop 2021]
 
@@ -642,15 +640,15 @@ This repository accompanies the paper [xxx](). It contains a curated list of Lar
 
 - (*Social Intelligence*) **Advancing Social Intelligence in AI Agents: Technical Challenges and Open Questions** [[paper](https://arxiv.org/abs/2404.11023)] [EMNLP 2024]
 
-- (*Social Intelligence*) **Large language models can outperform humans in social situational judgments** [[paper](https://www.nature.com/articles/s41598-024-79048-0)]
+- (*Social Intelligence*) **Large language models can outperform humans in social situational judgments** [[paper](https://www.nature.com/articles/s41598-024-79048-0)] [scientific reports]
 
 - (*Social Intelligence*) **AgentSense: Benchmarking Social Intelligence of Language Agents through Interactive Scenarios** [[paper](https://arxiv.org/abs/2410.19346)][[code](https://github.com/ljcleo/agent_sense)]
 
-- (*Social Intelligence*) **How well DoLarge Language Models Perform on Faux Pas Tests?** [[paper](https://aclanthology.org/2023.findings-acl.663.pdf)] [ACL 2023 (findings)]
+- (*Social Intelligence*) **How well DoLarge Language Models Perform on Faux Pas Tests?** [[paper](https://aclanthology.org/2023.findings-acl.663.pdf)] [ACL 2023 findings]
 
-- (*Social Intelligence*) **Towards Objectively Benchmarking Social Intelligence for Language Agents at Action Level** [[paper](https://arxiv.org/abs/2404.05337)]  [ACL 2024 (findings)]
+- (*Social Intelligence*) **Towards Objectively Benchmarking Social Intelligence for Language Agents at Action Level** [[paper](https://arxiv.org/abs/2404.05337)]  [ACL 2024 findings]
 
-- (*Social Intelligence*) **Emotional intelligence of Large Language Models** [[paper](https://journals.sagepub.com/doi/full/10.1177/18344909231213958)][[code](https://emotional-intelligence.github.io/)]
+- (*Social Intelligence*) **Emotional intelligence of Large Language Models** [[paper](https://journals.sagepub.com/doi/full/10.1177/18344909231213958)][[code](https://emotional-intelligence.github.io/)] [Journal of Pacific Rim Psychology]
 
 - (*Social Intelligence*) **Academically intelligent LLMs are not necessarily socially intelligent** [[paper](https://arxiv.org/abs/2403.06591)]
 
@@ -660,7 +658,7 @@ This repository accompanies the paper [xxx](). It contains a curated list of Lar
 
 - (*Language comprehension*) **Language Model Behavior: A Comprehensive Survey** [[paper](https://watermark.silverchair.com/coli_a_00492.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAAzYwggMyBgkqhkiG9w0BBwagggMjMIIDHwIBADCCAxgGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMmv-1DQ3bEQ9vR9a3AgEQgIIC6TdmStTVzTPvTY6q2hPoYEd1osLnCgLRZzTrTmR0Ep6fLD9DMmYn-JFAAp0_nsk_sMLik_2nv-gE3EIgd7U0NIgsWY1ZTyyP49u2WWVGtXGcgjG73C_26pf5WPTphyU2_qn3Bz0IJ6HLQiWH755R24i2pjYtRu07zE78frdvs2rxTg9S09f9bzZ0rONfFoLquBcIb4wWGUX28ToipnVRS7H_q3bXAIoJN9aP-EA2mQsWXdCYJnNXtsOxp3-h9PUIojVIOFxIKtmzkxS_2Nsigndn98-I4Oj_cuKIqdGWePdgWgg9RmgoVAmwrhslpMaIHLXHTalHUeB5JICsuDfqW90oPwz0LfHTVbFF9zohWedOVy_2GeA18ddsRXTvGjm6dVy5rUSgCNVVoFYVzLCRFCPW0t3URc9IJ6Fs9h5jc8GkQG1i58oGnqAwH8fOv_-y5DHKTDz6k5oXg73eLEvcgakCmAkW-Xvk5KTWFleX5y8-kYkAXTmH-CLLP99KmkhjJ_d2TQusTtTMTrry-31xpvhyT3caV1U4LimjxE-JdUXUjAoYOBmNCHeRE4aJk9LhypZ7t0iQfnhLve_kTKGu7m59rITnzZbcNbmfHviRbAMCzeeT1hz5_FSCjhPbP0teXPmwPPgcmtpus9mktd9QptdT8oFVGgPsJcYihe66SYHGoB3vwOXzTt4GTcDc1c5SFL3q8tbRhsDGLSvT9nptfGppRIAYn8wDwE8l8s4jCy27Ai_Hlhft_xq2iJ8ZY1HOnE9icsqGAi0rCqNTKfkPSMd7d6-cz3cRsWD1n3z47-64nCMKgkoDtFFvs_Z9CTPWxLtClPnF99gLDtCBKDBYzTpMSshwC-sb-jBQPHjeTsQ5l54CxRdMApU2_VXz90LTbsUYlwJ3DB5Ga7kyu7dqaC2osf4VRLR85ooIqEV-VG8KsIPafpUmwVXLyfhtZNvpezQCVm4-KgcbjanurKOGET6NiVts4F3qRrE)] [Computational Linguistics（CL）]
 
-- (*Language comprehension*) **Large Language Models for Psycholinguistic Plausibility Pretesting** [[paper](https://arxiv.org/abs/2402.05455)] [EACL 2024 findings]
+- (*Language comprehension*) **Large Language Models for Psycholinguistic Plausibility Pretesting** [[paper](https://arxiv.org/abs/2402.05455)] [EACL 2024 Findings]
 
 - (*Language comprehension*) **Syntactic Surprisal From Neural Models Predicts, But Underestimates, Human Processing Difficulty From Syntactic Ambiguities** [[paper](https://arxiv.org/abs/2210.12187)] [CoNLL 2022]
 
@@ -682,11 +680,11 @@ This repository accompanies the paper [xxx](). It contains a curated list of Lar
 
 - (*Language comprehension*) **Incremental Comprehension of Garden-Path Sentences by Large Language Models: Semantic Interpretation, Syntactic Re-Analysis, and Attention** [[paper](https://arxiv.org/abs/2405.16042)]
 
-- (*Language comprehension*) **Evaluating Grammatical Well-Formedness in Large Language Models: A Comparative Study with Human Judgments** [[paper](https://aclanthology.org/2024.cmcl-1.16.pdf)]
+- (*Language comprehension*) **Evaluating Grammatical Well-Formedness in Large Language Models: A Comparative Study with Human Judgments** [[paper](https://aclanthology.org/2024.cmcl-1.16.pdf)] [CMCL 2024 Workshop]
 
 - (*Language comprehension*) **The Goldilocks of Pragmatic Understanding: Fine-Tuning Strategy Matters for Implicature Resolution by LLMs** [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/4241fec6e94221526b0a9b24828bb774-Abstract-Conference.html)] [NeurIPS 2023]
 
-- (*Language comprehension*) **Long-form analogies generated by chatGPT lack human-like psycholinguistic properties** [[paper](https://arxiv.org/abs/2306.04537)]
+- (*Language comprehension*) **Long-form analogies generated by chatGPT lack human-like psycholinguistic properties** [[paper](https://arxiv.org/abs/2306.04537)] [CogSci 2023]
 
 - (*Language comprehension*) **Large GPT-like Models are Bad Babies: A Closer Look at the Relationship between Linguistic Competence and Psycholinguistic Measures** [[paper](https://arxiv.org/abs/2311.04547)] [CoNLL 2023]
 
@@ -704,21 +702,21 @@ This repository accompanies the paper [xxx](). It contains a curated list of Lar
 
 - (*Language generation*) **The Crowdless Future? Generative AI and Creative Problem-Solving** [[paper](https://pubsonline.informs.org/doi/full/10.1287/orsc.2023.18430)] [Organization Science]
 
-- (*Language generation*) **Do large language models resemble humans in language use?** [[paper](https://arxiv.org/abs/2303.08014)]
+- (*Language generation*) **Do large language models resemble humans in language use?** [[paper](https://arxiv.org/abs/2303.08014)] [CMCL 2024 workshop]
 
 - (*Language generation*) **Art or Artifice? Large Language Models and the False Promise of Creativity** [[paper](https://dl.acm.org/doi/abs/10.1145/3613904.3642731)] [CHI 2024]
 
 - (*Language generation*) **Artificial Intelligence is More Creative Than Humans: A Cognitive Science Perspective on the Current State of Generative Language Models** [[paper](https://osf.io/preprints/psyarxiv/6py2m_v1)]
 
-- (*Language generation*) **An empirical investigation of the impact of ChatGPT on creativity** [[paper](https://www.nature.com/articles/s41562-024-01953-1)] [Nature Human Behayiour]
+- (*Language generation*) **An empirical investigation of the impact of ChatGPT on creativity** [[paper](https://www.nature.com/articles/s41562-024-01953-1)] [Nature Human Behaviour]
 
 - (*Language generation*) **Evaluating Large Language Models via Linguistic Profiling** [[paper](https://aclanthology.org/2024.emnlp-main.166.pdf)] [EMNLP 2024]
 
 - (*Language generation*) **The Language of Creativity: Evidence from Humans and Large Language Models** [[paper](https://onlinelibrary.wiley.com/doi/abs/10.1002/jocb.636)] [The Journal of Creative Behavior]
 
-- (*Language generation*) **Long-form analogies generated by chatGPT lack human-like psycholinguistic properties** [[paper](https://arxiv.org/abs/2306.04537)]
+- (*Language generation*) **Long-form analogies generated by chatGPT lack human-like psycholinguistic properties** [[paper](https://arxiv.org/abs/2306.04537)] [CogSci 2023]
 
-- (*Language generation*) **Putting GPT-3's Creativity to the (Alternative Uses) Test** [[paper](https://arxiv.org/abs/2206.08932)] [ICCC 2022 short paper]
+- (*Language generation*) **Putting GPT-3's Creativity to the (Alternative Uses) Test** [[paper](https://arxiv.org/abs/2206.08932)] [ICCC 2022 (Short Paper)]
 
 - (*Language generation*) **Humanlike Cognitive Patterns as Emergent Phenomena in Large Language Models** [[paper](https://arxiv.org/abs/2412.15501)] 
 
@@ -738,11 +736,11 @@ This repository accompanies the paper [xxx](). It contains a curated list of Lar
 
 - **CogBench: a large language model walks into a psychology lab** [[paper](https://arxiv.org/abs/2402.18225)] [ICML 2024]
 
-- **Age against the machine—susceptibility of large language models to cognitive impairment: cross sectional analysis** [[paper](https://www.bmj.com/content/387/bmj-2024-081948.abstract)]
+- **Age against the machine—susceptibility of large language models to cognitive impairment: cross sectional analysis** [[paper](https://www.bmj.com/content/387/bmj-2024-081948.abstract)] [The BMJ(British Medical Journal)]
 
 - **The Cognitive Capabilities of Generative AI: A Comparative Analysis with Human Benchmarks** [[paper](https://arxiv.org/abs/2410.07391)]
 
-- **CogGPT: Unleashing the Power of Cognitive Dynamics on Large Language Models** [[paper](https://arxiv.org/abs/2401.08438)] [EMNLP 2024 findings]
+- **CogGPT: Unleashing the Power of Cognitive Dynamics on Large Language Models** [[paper](https://arxiv.org/abs/2401.08438)] [EMNLP 2024 Findings]
 
 - **Language models and psychological sciences** [[paper](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2023.1279317/full)] [Frontiers in Psychology]
 

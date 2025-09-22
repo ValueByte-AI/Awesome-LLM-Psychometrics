@@ -199,6 +199,7 @@ If you find this repository useful, we would greatly appreciate it if you could 
 - (*Big Five*) **Beyond Self-Reports: Multi-Observer Agents for Personality Assessment in Large Language Models**, 2025.04, [[paper](https://arxiv.org/abs/2504.08399)]
 - (*Big Five*) **Persona Dynamics: Unveiling the Impact of Personality Traits on Agents in Text-Based Games**, 2025.04, [[paper](https://arxiv.org/abs/2504.06868)]
 - (*Big Five*) **Improving Language Model Personas via Rationalization with Psychological Scaffolds**, 2025.04, [[paper](https://arxiv.org/abs/2504.17993)]
+- (*Big Five*) **The Personality Illusion: Revealing Dissociation Between Self-Reports & Behavior in LLMs**, 2025.09, [[paper](https://arxiv.org/abs/2509.03730)][[code](https://github.com/psychology-of-AI/Personality-Illusion)]
 - (*HEXACO*) **On the Psychology of GPT-4: Moderately anxious, slightly masculine, honest, and humble**, 2024.02, [[paper](https://arxiv.org/abs/2402.01777)]
 - (*HEXACO*) **Personality testing of large language models: limited temporal stability, but highlighted prosociality**, 2024.01, Royal Society Open Science, [[paper](https://royalsocietypublishing.org/doi/full/10.1098/rsos.240180)] 
 - (*HEXACO*) **Who is GPT-3? An Exploration of Personality, Values and Demographics**, EMNLP 2022 NLP+CSS workshop, [[paper](https://arxiv.org/abs/2209.14338)]

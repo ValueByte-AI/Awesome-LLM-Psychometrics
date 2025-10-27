@@ -44,6 +44,8 @@ This repository accompanies the paper [Large Language Model Psychometrics: A Sys
   - 📂 [Social Intelligence & Theory of Mind](#-social-intelligence--theory-of-mind)  
   - 📂 [Psychology of Language](#-psychology-of-language)  
   - 📂 [Learning and Cognitive Capabilities](#-learning-and-cognitive-capabilities)  
+  - 📂 [Reliability and Validity](#-reliability-and-validity)  
+  - 📂 [Other Applications](#-other-applications)  
 
 ---
 
@@ -62,9 +64,6 @@ If you find this repository useful, we would greatly appreciate it if you could 
 ```
 
 
-## 📄 TODO
-
-- [ ] Add tags to each entry
 
 
 ## 🧠 Constructs & Categories  
@@ -199,6 +198,8 @@ If you find this repository useful, we would greatly appreciate it if you could 
 - (*Big Five*) **Beyond Self-Reports: Multi-Observer Agents for Personality Assessment in Large Language Models**, 2025.04, [[paper](https://arxiv.org/abs/2504.08399)]
 - (*Big Five*) **Persona Dynamics: Unveiling the Impact of Personality Traits on Agents in Text-Based Games**, 2025.04, [[paper](https://arxiv.org/abs/2504.06868)]
 - (*Big Five*) **Improving Language Model Personas via Rationalization with Psychological Scaffolds**, 2025.04, [[paper](https://arxiv.org/abs/2504.17993)]
+- (*Big Five*) **Designing llm-agents with personalities: A psychometric approach**, 2025, [[paper](https://knowledge.uchicago.edu/record/15393)]
+- (*Big Five*) **Persistent Instability in LLM's Personality Measurements: Effects of Scale, Reasoning, and Conversation History**, 2025, [[paper](https://arxiv.org/abs/2508.04826)]
 - (*Big Five*) **The Personality Illusion: Revealing Dissociation Between Self-Reports & Behavior in LLMs**, 2025.09, [[paper](https://arxiv.org/abs/2509.03730)][[code](https://github.com/psychology-of-AI/Personality-Illusion)]
 - (*HEXACO*) **On the Psychology of GPT-4: Moderately anxious, slightly masculine, honest, and humble**, 2024.02, [[paper](https://arxiv.org/abs/2402.01777)]
 - (*HEXACO*) **Personality testing of large language models: limited temporal stability, but highlighted prosociality**, 2024.01, Royal Society Open Science, [[paper](https://royalsocietypublishing.org/doi/full/10.1098/rsos.240180)] 
@@ -264,6 +265,7 @@ If you find this repository useful, we would greatly appreciate it if you could 
 - (*GLOBE*) **Quantifying AI Psychology: A Psychometrics Benchmark for Large Language Models**, 2024.06, [[paper](https://arxiv.org/abs/2406.17675)]
 - (*GLOBE*) **ValueBench: Towards Comprehensively Evaluating Value Orientations and Understanding of Large Language Models**, ACL 2024, [[paper](https://arxiv.org/abs/2406.04214)][[code](https://github.com/Value4AI/ValueBench)]
 - (*SVO*) **Heterogeneous Value Alignment Evaluation for Large Language Models**, AAAI 2024 Workshop, [[paper](https://arxiv.org/abs/2305.17147)][[code](https://github.com/zowiezhang/HVAE)] 
+- (*Others & custom*) **Generative psycho-lexical approach for constructing value systems in large language models**, ACL 2025 Main, [[paper](https://arxiv.org/abs/2502.02444)]
 - (*Others & custom*) **Mind the Value-Action Gap: Do LLMs Act in Alignment with Their Values?**, 2025.01, [[paper](https://arxiv.org/abs/2501.15463)]
 - (*Others & custom*) **Beyond Human Norms: Unveiling Unique Values of Large Language Models through Interdisciplinary Approaches**, 2024.04, [[paper](https://arxiv.org/abs/2404.12744)]
 - (*Others & custom*) **Raising the Bar: Investigating the Values of Large Language Models via Generative Evolving Testing**, 2024.06, [[paper](https://arxiv.org/abs/2406.14230)]
@@ -324,6 +326,7 @@ If you find this repository useful, we would greatly appreciate it if you could 
 - (*Others & Custom*) **Probing the Moral Development of Large Language Models through Defining Issues Test**, 2023.09, [[paper](https://arxiv.org/abs/2309.13356)]
 - (*Others & Custom*) **Decoding Multilingual Moral Preferences: Unveiling LLM's Biases through the Moral Machine Experiment**, AIES 2024, [[paper](https://ojs.aaai.org/index.php/AIES/article/view/31741)] 
 - (*Others & Custom*) **Right vs. Right: Can LLMs Make Tough Choices?**, 2024.12, [[paper](https://arxiv.org/abs/2412.19926)]
+- (*Others & Custom*) **Implicit Values Embedded in How Humans and LLMs Complete Subjective Everyday Tasks**, 2025, [[paper](https://arxiv.org/abs/2510.03384)]
 
 ### 📂 Attitudes&opinions
 - (*Culture*) **Cultural tendencies in generative AI**, 2025.06, Nature Human Behaviour, [[paper](https://www.nature.com/articles/s41562-025-02242-1)]
@@ -596,4 +599,36 @@ If you find this repository useful, we would greatly appreciate it if you could 
 
 - **MR-Ben: A Meta-Reasoning Benchmark for Evaluating System-2 Thinking in LLMs**, 2024.06, [[paper](https://arxiv.org/abs/2406.13975)]
 
-- **Exploring the Cognitive Knowledge Structure of Large Language Models: An Educational Diagnostic Assessment Approach**, EMNLP 2023 (Short Paper), [[paper](https://arxiv.org/abs/2310.08172)] 
+- **Exploring the Cognitive Knowledge Structure of Large Language Models: An Educational Diagnostic Assessment Approach**, EMNLP 2023 (Short Paper), [[paper](https://arxiv.org/abs/2310.08172)]
+
+### 📂 Reliability and Validity
+
+- **Revisiting the Reliability of Psychological Scales on Large Language Models**, EMNLP 2024, [[paper](https://arxiv.org/abs/2305.19926)]
+
+- **You don't need a personality test to know these models are unreliable: Assessing the Reliability of Large Language Models on Psychometric Instruments**, NAACL 2024, [[paper](https://arxiv.org/abs/2311.09718)]
+
+- **Challenging the Validity of Personality Tests for Large Language Models**, Workshop at NeurIPS 2023, [[paper](https://tomsuehr.com/wp-content/uploads/2024/06/challenging_the_validity_of_personality_tests_on_llms.pdf)]
+
+- **Do Psychometric Tests Work for Large Language Models? Evaluation of Tests on Sexism, Racism, and Morality**, 2025, [[paper](https://arxiv.org/abs/2510.11254)]
+
+- **A validity-guided workflow for robust large language model research in psychology**, 2025, [[paper](https://arxiv.org/abs/2507.04491)]
+
+- **From Prompts to Constructs: A Dual-Validity Framework for LLM Research in Psychology**, 2025, [[paper](https://arxiv.org/abs/2506.16697)]
+
+- **Psychometric item validation using virtual respondents with trait-response mediators**, 2025, [[paper](https://arxiv.org/abs/2507.05890)]
+
+- **Value Portrait: Assessing Language Models' Values through Psychometrically and Ecologically Valid Items**, ACL 2025, [[paper](https://arxiv.org/abs/2505.01015)]
+
+- **Established psychometric vs. ecologically valid questionnaires: Rethinking psychological assessments in large language models**, 2025, [[paper](https://arxiv.org/abs/2509.10078)]
+
+- **Persistent Instability in LLM's Personality Measurements: Effects of Scale, Reasoning, and Conversation History**, 2025, [[paper](https://arxiv.org/abs/2508.04826)]
+
+- **Questioning the Survey Responses of Large Language Models**, NeurIPS 2024, [[paper](https://proceedings.neurips.cc/paper_files/paper/2024/hash/515c62809e0a29729d7eec26e2916fc0-Abstract-Conference.html)]
+
+- **Personality testing of large language models: limited temporal stability, but highlighted prosociality**, 2024.01, Royal Society Open Science, [[paper](https://royalsocietypublishing.org/doi/full/10.1098/rsos.240180)]
+
+- **Do LLMs Exhibit Human-Like Response Biases? A Case Study in Survey Design**, 2024.09, Transactions of the Association for Computational Linguistics (TACL), [[paper](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00685/124261)]
+
+### 📂 Other Applications
+
+- **Towards Personalized Explanations for Health Simulations: A Mixed-Methods Framework for Stakeholder-Centric Summarization**, 2025, [[paper](https://arxiv.org/abs/2509.04646)]

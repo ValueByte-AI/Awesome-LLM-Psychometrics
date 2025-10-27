@@ -63,8 +63,22 @@ If you find this repository useful, we would greatly appreciate it if you could 
 }
 ```
 
+---
 
+## 🔥 News
 
+**2025.10** - We are excited to highlight our complementary review paper that explores the intersection of AI and psychometrics from a different perspective: [**A Review of Psychometrics with AI Foundation Models**](./assets/fm_psychometrics_review.pdf).
+
+<details>
+<summary>Click to know more about the review paper</summary>
+
+This review examines the emerging integration of AI Foundation Models (FMs) into psychometrics. In contrast to LLM psychometrics, which focuses on using psychometrics for LLMs, this review focuses on using FMs for psychometrics. The review maps practical applications of FMs across the measurement pipeline, describes key methodologies for enhancing FM performance in psychometric contexts, and examines the theoretical implications of FMs for this discipline. In addition, it charts risks and offers actionable recommendations for the effective, rigorous, and ethical implementation of FMs in psychometric research and practice.
+
+![Structure of the review paper](./assets/FMs4psyc_overview.png)
+
+</details>
+
+---
 
 ## 🧠 Constructs & Categories  
 

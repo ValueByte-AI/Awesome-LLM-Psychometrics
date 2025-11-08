@@ -67,7 +67,7 @@ If you find this repository useful, we would greatly appreciate it if you could 
 
 ## 🔥 News
 
-**2025.10** - We are excited to highlight our complementary review paper that explores the intersection of AI and psychometrics from a different perspective: [**A Review of Psychometrics with AI Foundation Models**](./assets/fm_psychometrics_review.pdf).
+**2025.10** - We are excited to highlight our complementary review paper that explores the intersection of AI and psychometrics from a different perspective: [**Psychometrics with AI Foundation Models**](./assets/fm_psychometrics_review.pdf).
 
 <details>
 <summary>Click to know more about the review paper</summary>

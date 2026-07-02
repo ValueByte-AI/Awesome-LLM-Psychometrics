@@ -286,6 +286,7 @@ This review examines the emerging integration of AI Foundation Models (FMs) into
 - (*Others & custom*) **Quantifying AI Psychology: A Psychometrics Benchmark for Large Language Models**, 2024.06, [[paper](https://arxiv.org/abs/2406.17675)]
 - (*Others & custom*) **Measuring Spiritual Values and Bias of Large Language Models**, 2024.10, [[paper](https://arxiv.org/abs/2410.11647)]
 - (*Others & custom*) **LocalValueBench: A Collaboratively Built and Extensible Benchmark for Evaluating Localized Value Alignment and Ethical Safety in Large Language Models**, 2024.08, [[paper](https://arxiv.org/abs/2408.01460)]
+- (*Others & custom*) **Helium Model Worldview Benchmark**, 2026, [[dataset](https://huggingface.co/datasets/HeliumTrades/helium-model-worldview-benchmark)] [[overview](https://heliumtrades.com/benchmarks/)]. 304 paired prompts across safety, values, name-swap bias, cue-swap consistency, and 50 balanced political Likert items.
 - (*Others & custom*) **Are Large Language Models Consistent over Value-laden Questions?**, EMNLP 2024, [[paper](https://arxiv.org/abs/2407.02996)] 
 - (*Others & custom*) **CValues: Measuring the Values of Chinese Large Language Models from Safety to Responsibility**, 2023.07, [[paper](https://arxiv.org/abs/2307.09705)]
 - (*Others & custom*) **DO MINDFULNESS ACTIVITIES IMPROVE HANDGRIP STRENGTH AMONG OLDER ADULTS: A PROPENSITY SCORE MATCHING APPROACH**, 2024.12, Innovation in Aging, [[paper](https://academic.oup.com/innovateage/article/8/Supplement_1/1010/7939280?login=false)] 

@@ -271,6 +271,7 @@ This review examines the emerging integration of AI Foundation Models (FMs) into
 - (*WVS*) **Only a Little to the Left: A Theory-grounded Measure of Political Bias in Large Language Models**, 2025.03, [[paper](https://arxiv.org/abs/2503.16148)]
 - (*WVS*) **Exploring Large Language Models on Cross-Cultural Values in Connection with Training Methodology**, 2024.12, [[paper](https://arxiv.org/abs/2412.08846)]
 - (*WVS*) **Value Compass Leaderboard: A Platform for Fundamental and Validated Evaluation of LLMs Values**, 2025.01, [[paper](https://arxiv.org/abs/2501.07071)]
+- (*WVS*) **On the Alignment of Large Language Models with Global Human Opinion**, 2026.01, AAAI 2026 Best Paper (AI Alignment Track), [[paper](https://arxiv.org/abs/2509.01418)][[code](https://github.com/ku-nlp/global-opinion-alignment)]
 - (*VSM*) **How Well Do LLMs Represent Values Across Cultures? Empirical Analysis of LLM Responses Based on Hofstede Cultural Dimensions**, 2024.06, [[paper](https://arxiv.org/abs/2406.14805)]
 - (*VSM*) **Large Language Models as Superpositions of Cultural Perspectives**, 2023.07, [[paper](https://arxiv.org/abs/2307.07870)][[code](https://gitlab.inria.fr/gkovac/value_stability)]
 - (*VSM*) **ValueBench: Towards Comprehensively Evaluating Value Orientations and Understanding of Large Language Models**, ACL 2024, [[paper](https://arxiv.org/abs/2406.04214)][[code](https://github.com/Value4AI/ValueBench)] 
@@ -342,6 +343,7 @@ This review examines the emerging integration of AI Foundation Models (FMs) into
 - (*Others & Custom*) **Decoding Multilingual Moral Preferences: Unveiling LLM's Biases through the Moral Machine Experiment**, AIES 2024, [[paper](https://ojs.aaai.org/index.php/AIES/article/view/31741)] 
 - (*Others & Custom*) **Right vs. Right: Can LLMs Make Tough Choices?**, 2024.12, [[paper](https://arxiv.org/abs/2412.19926)]
 - (*Others & Custom*) **Implicit Values Embedded in How Humans and LLMs Complete Subjective Everyday Tasks**, 2025, [[paper](https://arxiv.org/abs/2510.03384)]
+- (*Others & Custom*) **Are Rules Meant to be Broken? Understanding Multilingual Moral Reasoning as a Computational Pipeline with UniMoral**, 2025.07, ACL 2025 Best Resource Paper, [[paper](https://aclanthology.org/2025.acl-long.294/)]
 
 ### 📂 Attitudes&opinions
 - (*Culture*) **Cultural tendencies in generative AI**, 2025.06, Nature Human Behaviour, [[paper](https://www.nature.com/articles/s41562-025-02242-1)]
@@ -442,6 +444,8 @@ This review examines the emerging integration of AI Foundation Models (FMs) into
 - **Do Large Language Models Truly Grasp Mathematics? An Empirical Exploration**, 2024.10, [[paper](https://www.researchsquare.com/article/rs-5273334/v1)]
 
 - **Studying and improving reasoning in humans and machines**, 2024.06, Communications Psychology, [[paper](https://www.nature.com/articles/s44271-024-00091-8)]
+
+- **Large Language Models Develop Novel Social Biases Through Adaptive Exploration**, 2026.07, ICML 2026 Oral, [[paper](https://arxiv.org/abs/2511.06148)][[code](https://github.com/addisonwu05/LLM-Natural-Segregation)]
 
 ### 📂  Social interactions
 
@@ -588,6 +592,8 @@ This review examines the emerging integration of AI Foundation Models (FMs) into
 
 - (*Language generation*) **Are Large Language Models Capable of Generating Human-Level Narratives?**, 2024.07, [[paper](https://arxiv.org/abs/2407.13248)]
 
+- (*Language generation*) **Artificial Hivemind: The Open-Ended Homogeneity of Language Models (and Beyond)**, 2025.12, NeurIPS 2025 Best Paper (Datasets & Benchmarks Track), [[paper](https://arxiv.org/abs/2510.22954)][[code](https://github.com/liweijiang/artificial-hiveminds)]
+
 - (*Language acquisition*) **Bridging the data gap between children and large language models**, 2023.11, Trends in Cognitive Sciences (TICS) [[paper](https://www.cell.com/trends/cognitive-sciences/abstract/S1364-6613(23)00203-6)]
 
 - (*Language acquisition*) **Psychomatics—A Multidisciplinary Framework for Understanding Artificial Minds**, 2024.04, Cyberpsychology, Behavior, and Social Networking, [[paper](https://www.liebertpub.com/doi/abs/10.1089/cyber.2024.0409)] 
@@ -629,6 +635,7 @@ This review examines the emerging integration of AI Foundation Models (FMs) into
 - **Judgments of learning distinguish humans from large language models in predicting memory**, 2025.10, Scientific Reports, [[paper](https://www.nature.com/articles/s41598-025-22290-x)]
 
 - **Understanding large language models demands distinguishing human projection from machine cognition**, 2026.07, Communications Psychology, [[paper](https://www.nature.com/articles/s44271-026-00508-6)]
+- **Large Language Models Assume People are More Rational than We Really Are**, 2025.04, ICLR 2025 Oral, [[paper](https://arxiv.org/abs/2406.17055)]
 
 ### 📂 Reliability and Validity
 
@@ -663,6 +670,7 @@ This review examines the emerging integration of AI Foundation Models (FMs) into
 - **Large language models that replace human participants can harmfully misportray and flatten identity groups**, 2025.03, Nature Machine Intelligence, [[paper](https://www.nature.com/articles/s42256-025-00986-z)]
 
 - **A large-scale replication of scenario-based experiments in psychology and management using large language models**, 2025.08, Nature Computational Science, [[paper](https://www.nature.com/articles/s43588-025-00840-7)]
+- **A Theory of Response Sampling in LLMs: Part Descriptive and Part Prescriptive**, 2025.07, ACL 2025 Best Paper, [[paper](https://aclanthology.org/2025.acl-long.1454/)]
 
 ### 📂 Other Applications
 

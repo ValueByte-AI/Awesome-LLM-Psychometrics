@@ -215,6 +215,7 @@ This review examines the emerging integration of AI Foundation Models (FMs) into
 - (*Big Five*) **Designing llm-agents with personalities: A psychometric approach**, 2025, [[paper](https://knowledge.uchicago.edu/record/15393)]
 - (*Big Five*) **Persistent Instability in LLM's Personality Measurements: Effects of Scale, Reasoning, and Conversation History**, 2025, [[paper](https://arxiv.org/abs/2508.04826)]
 - (*Big Five*) **The Personality Illusion: Revealing Dissociation Between Self-Reports & Behavior in LLMs**, 2025.09, [[paper](https://arxiv.org/abs/2509.03730)][[code](https://github.com/psychology-of-AI/Personality-Illusion)]
+- (*Big Five*) **A psychometric framework for evaluating and shaping personality traits in large language models**, 2025.12, Nature Machine Intelligence, [[paper](https://www.nature.com/articles/s42256-025-01115-6)]
 - (*HEXACO*) **On the Psychology of GPT-4: Moderately anxious, slightly masculine, honest, and humble**, 2024.02, [[paper](https://arxiv.org/abs/2402.01777)]
 - (*HEXACO*) **Personality testing of large language models: limited temporal stability, but highlighted prosociality**, 2024.01, Royal Society Open Science, [[paper](https://royalsocietypublishing.org/doi/full/10.1098/rsos.240180)] 
 - (*HEXACO*) **Who is GPT-3? An Exploration of Personality, Values and Demographics**, EMNLP 2022 NLP+CSS workshop, [[paper](https://arxiv.org/abs/2209.14338)]
@@ -406,6 +407,10 @@ This review examines the emerging integration of AI Foundation Models (FMs) into
 
 - **Human-like intuitive behavior and reasoning biases emerged in large language models but disappeared in ChatGPT**, 2023.10, Nature Computational Science, [[paper](https://www.nature.com/articles/s43588-023-00527-x)] 
 
+- **AI generates covertly racist decisions about people based on their dialect**, 2024.09, Nature, [[paper](https://www.nature.com/articles/s41586-024-07856-5)]
+
+- **Evaluating the ability of large language models to predict human social decisions**, 2025.09, Scientific Reports, [[paper](https://www.nature.com/articles/s41598-025-17188-7)]
+
 - **Relative Value Biases in Large Language Models**, CogSci 2024, [[paper](https://arxiv.org/abs/2401.14530)] 
 
 - **Evaluating Nuanced Bias in Large Language Model Free Response Answers**, NLDB 2024, [[paper](https://link.springer.com/chapter/10.1007/978-3-031-70242-6_36)] 
@@ -517,6 +522,8 @@ This review examines the emerging integration of AI Foundation Models (FMs) into
 - (*Social Intelligence*) **Academically intelligent LLMs are not necessarily socially intelligent**, 2024.03, [[paper](https://arxiv.org/abs/2403.06591)]
 - (*Social Intelligence*) **SOTOPIA: Interactive Evaluation for Social Intelligence in Language Agents**, 2023.10, [[paper](https://arxiv.org/abs/2310.11667)] 
 
+- (*Social Intelligence*) **Emergent social conventions and collective bias in LLM populations**, 2025.05, Science Advances, [[paper](https://www.science.org/doi/10.1126/sciadv.adu9368)]
+
 ### 📂  Psychology of language
 
 - (*Language comprehension*) **Language Model Behavior: A Comprehensive Survey**, 2023.05, Computational Linguistics(CL), [[paper](https://watermark.silverchair.com/coli_a_00492.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAAzYwggMyBgkqhkiG9w0BBwagggMjMIIDHwIBADCCAxgGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMmv-1DQ3bEQ9vR9a3AgEQgIIC6TdmStTVzTPvTY6q2hPoYEd1osLnCgLRZzTrTmR0Ep6fLD9DMmYn-JFAAp0_nsk_sMLik_2nv-gE3EIgd7U0NIgsWY1ZTyyP49u2WWVGtXGcgjG73C_26pf5WPTphyU2_qn3Bz0IJ6HLQiWH755R24i2pjYtRu07zE78frdvs2rxTg9S09f9bzZ0rONfFoLquBcIb4wWGUX28ToipnVRS7H_q3bXAIoJN9aP-EA2mQsWXdCYJnNXtsOxp3-h9PUIojVIOFxIKtmzkxS_2Nsigndn98-I4Oj_cuKIqdGWePdgWgg9RmgoVAmwrhslpMaIHLXHTalHUeB5JICsuDfqW90oPwz0LfHTVbFF9zohWedOVy_2GeA18ddsRXTvGjm6dVy5rUSgCNVVoFYVzLCRFCPW0t3URc9IJ6Fs9h5jc8GkQG1i58oGnqAwH8fOv_-y5DHKTDz6k5oXg73eLEvcgakCmAkW-Xvk5KTWFleX5y8-kYkAXTmH-CLLP99KmkhjJ_d2TQusTtTMTrry-31xpvhyT3caV1U4LimjxE-JdUXUjAoYOBmNCHeRE4aJk9LhypZ7t0iQfnhLve_kTKGu7m59rITnzZbcNbmfHviRbAMCzeeT1hz5_FSCjhPbP0teXPmwPPgcmtpus9mktd9QptdT8oFVGgPsJcYihe66SYHGoB3vwOXzTt4GTcDc1c5SFL3q8tbRhsDGLSvT9nptfGppRIAYn8wDwE8l8s4jCy27Ai_Hlhft_xq2iJ8ZY1HOnE9icsqGAi0rCqNTKfkPSMd7d6-cz3cRsWD1n3z47-64nCMKgkoDtFFvs_Z9CTPWxLtClPnF99gLDtCBKDBYzTpMSshwC-sb-jBQPHjeTsQ5l54CxRdMApU2_VXz90LTbsUYlwJ3DB5Ga7kyu7dqaC2osf4VRLR85ooIqEV-VG8KsIPafpUmwVXLyfhtZNvpezQCVm4-KgcbjanurKOGET6NiVts4F3qRrE)] 
@@ -621,6 +628,13 @@ This review examines the emerging integration of AI Foundation Models (FMs) into
 
 - **Exploring the Cognitive Knowledge Structure of Large Language Models: An Educational Diagnostic Assessment Approach**, EMNLP 2023 (Short Paper), [[paper](https://arxiv.org/abs/2310.08172)]
 
+- **A foundation model to predict and capture human cognition**, 2025.07, Nature, [[paper](https://www.nature.com/articles/s41586-025-09215-4)]
+
+- **What large language models know and what people think they know**, 2025.02, Nature Machine Intelligence, [[paper](https://www.nature.com/articles/s42256-024-00976-7)]
+
+- **Judgments of learning distinguish humans from large language models in predicting memory**, 2025.10, Scientific Reports, [[paper](https://www.nature.com/articles/s41598-025-22290-x)]
+
+- **Understanding large language models demands distinguishing human projection from machine cognition**, 2026.07, Communications Psychology, [[paper](https://www.nature.com/articles/s44271-026-00508-6)]
 - **Large Language Models Assume People are More Rational than We Really Are**, 2025.04, ICLR 2025 Oral, [[paper](https://arxiv.org/abs/2406.17055)]
 
 ### 📂 Reliability and Validity
@@ -651,6 +665,11 @@ This review examines the emerging integration of AI Foundation Models (FMs) into
 
 - **Do LLMs Exhibit Human-Like Response Biases? A Case Study in Survey Design**, 2024.09, Transactions of the Association for Computational Linguistics (TACL), [[paper](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00685/124261)]
 
+- **Larger and more instructable language models become less reliable**, 2024.10, Nature, [[paper](https://www.nature.com/articles/s41586-024-07930-y)]
+
+- **Large language models that replace human participants can harmfully misportray and flatten identity groups**, 2025.03, Nature Machine Intelligence, [[paper](https://www.nature.com/articles/s42256-025-00986-z)]
+
+- **A large-scale replication of scenario-based experiments in psychology and management using large language models**, 2025.08, Nature Computational Science, [[paper](https://www.nature.com/articles/s43588-025-00840-7)]
 - **A Theory of Response Sampling in LLMs: Part Descriptive and Part Prescriptive**, 2025.07, ACL 2025 Best Paper, [[paper](https://aclanthology.org/2025.acl-long.1454/)]
 
 ### 📂 Other Applications

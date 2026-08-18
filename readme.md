@@ -387,6 +387,8 @@ This review examines the emerging integration of AI Foundation Models (FMs) into
 - (*Others & custom*) **Large Language Models Can Be Used to Estimate the Latent Positions of Politicians**, 2023.03, [[paper](https://arxiv.org/abs/2303.12057)]
 - (*Others & custom*) **Better Aligned with Survey Respondents or Training Data? Unveiling Political Leanings of LLMs on U.S. Supreme Court Cases**, 2025.02, [[paper](https://arxiv.org/abs/2502.18282)]
 - (*Others & custom*) **Are LLMs (Really) Ideological? An IRT-based Analysis and Alignment Tool for Perceived Socio-Economic Bias in LLMs**, 2025.05, [[paper](https://arxiv.org/abs/2503.13149)]
+- (*Others & custom*) **Mind the Gaps: Mixture-of-Minds for Human Simulation**, 2026.08, [[paper](https://arxiv.org/abs/2608.06115)]
+- (*Others & custom*) **MatrAIx: Simulating the World with 8.3 Billion Persona Agents**, 2026.08, [[paper](https://arxiv.org/abs/2608.04205)]
 
 ### 📂 Heuristics & biases
 
@@ -493,6 +495,7 @@ This review examines the emerging integration of AI Foundation Models (FMs) into
 - (*Theory of Mind*) **AutoToM: Automated Bayesian Inverse Planning and Model Discovery for Open-ended Theory of Mind**, 2025.02, [[paper](https://arxiv.org/abs/2502.15676)]
 - (*Theory of Mind*) **How FaR Are Large Language Models From Agents with Theory-of-Mind?**, 2023.10, [[paper](https://arxiv.org/abs/2310.03051)]
 - (*Theory of Mind*) **Dynamic Evaluation of Large Language Models by Meta Probing Agents**, ICML 2024, [[paper](https://arxiv.org/abs/2402.14865)][[code](https://github.com/microsoft/promptbench)] 
+- (*Theory of Mind*) **Evaluating Fine-Grained Theory of Mind via Asymmetric Game Mechanics**, 2026.08, [[paper](https://arxiv.org/abs/2608.09638)]
 - (*Emotional Intelligence*) **A Literature Review on Emotional Intelligence of Large Language Models (LLMs)**, 2024, International Journal of Advanced Research in Computer Science, [[paper](https://openurl.ebsco.com/EPDB%3Agcd%3A10%3A12120090/detailv2?sid=ebsco%3Aplink%3Ascholar&id=ebsco%3Agcd%3A179265097&crl=c&link_origin=scholar.google.com.hk)]
 - (*Emotional Intelligence*) **Large Language Models and Empathy: Systematic Review**, 2024.01, Journal of Medical Internet Research, [[paper](https://www.jmir.org/2024/1/e52597/)] 
 - (*Emotional Intelligence*) **EmotionQueen: A Benchmark for Evaluating Empathy of Large Language Models**, ACL 2024 Findings, [[paper](https://arxiv.org/abs/2409.13359)] 

@@ -222,6 +222,7 @@ This review examines the emerging integration of AI Foundation Models (FMs) into
 - (*HEXACO*) **Cognitive phantoms in LLMs through the lens of latent variables**, 2024.09, [[paper](https://arxiv.org/abs/2409.15324)]
 - (*HEXACO*) **ValueBench: Towards Comprehensively Evaluating Value Orientations and Understanding of Large Language Models**, ACL 2024, [[paper](https://arxiv.org/abs/2406.04214)][[code](https://github.com/Value4AI/ValueBench)] 
 - (*HEXACO*) **Exploring the Impact of Personality Traits on LLM Bias and Toxicity**, 2025.02, [[paper](https://arxiv.org/abs/2502.12566)]
+- (*HEXACO*) **Patients With Personality: Realistic Patient Simulation through Controlled Diversity and Selective Disclosure**, 2026.06, [[paper](https://arxiv.org/abs/2606.17441)][[code](https://github.com/mo374z/PatientsWithPersonality)]
 - (*MBTI*) **Machine Mindset: An MBTI Exploration of Large Language Models**, 2023.12, [[paper](https://arxiv.org/abs/2312.12999 )][[code](https://github.com/PKU-YuanGroup/Machine-Mindset)]
 - (*MBTI*) **Revisiting the Reliability of Psychological Scales on Large Language Models**, EMNLP 2024, [[paper](https://arxiv.org/abs/2305.19926)]
 - (*MBTI*) **Open Models, Closed Minds? On Agents Capabilities in Mimicking Human Personalities through Open Large Language Models**, AAAI 2025, [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/32125)] 

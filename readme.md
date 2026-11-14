@@ -246,6 +246,9 @@ This review examines the emerging integration of AI Foundation Models (FMs) into
 - (*Others & custom*) **Editing Personality For Large Language Models**, NLPCC 2024, [[paper](https://link.springer.com/chapter/10.1007/978-981-97-9434-8_19)]
 - (*Others & custom*) **Quantifying Risk Propensities of Large Language Models: Ethical Focus and Bias Detection through Role-Play**, CogSci 2025, [[paper](https://arxiv.org/abs/2411.08884)] 
 - (*Others & custom*) **PersonaBench: Evaluating AI Models on Understanding Personal Information through Accessing (Synthetic) Private User Data**, 2025.02, [[paper](https://arxiv.org/abs/2502.20616)] 
+- (*Others & custom*) **Feedback Forensics: A Toolkit to Measure AI Personality**, NeurIPS 2026 (Datasets & Benchmarks Track), [[paper](https://arxiv.org/abs/2509.26305)][[code](https://github.com/rdnfn/feedback-forensics)]
+- (*Others & custom*) **Who Is Your Ideal Companion? Evaluating Emotional Companion Capabilities of LLMs Based on Adult Attachment Theory (ECBench)**, 2026.08, [[paper](https://arxiv.org/abs/2608.13168)]
+- (*DarkTriad*) **Is your LLM an Agressive Narcissist with Depression? Analyzing Psychological Portraits of Large Language Models**, 2026.11, [[paper](https://arxiv.org/abs/2611.02757)]
 
 ### 📂 Values  
 
@@ -344,6 +347,7 @@ This review examines the emerging integration of AI Foundation Models (FMs) into
 - (*Others & Custom*) **Right vs. Right: Can LLMs Make Tough Choices?**, 2024.12, [[paper](https://arxiv.org/abs/2412.19926)]
 - (*Others & Custom*) **Implicit Values Embedded in How Humans and LLMs Complete Subjective Everyday Tasks**, 2025, [[paper](https://arxiv.org/abs/2510.03384)]
 - (*Others & Custom*) **Are Rules Meant to be Broken? Understanding Multilingual Moral Reasoning as a Computational Pipeline with UniMoral**, 2025.07, ACL 2025 Best Resource Paper, [[paper](https://aclanthology.org/2025.acl-long.294/)]
+- (*Others & Custom*) **PsychEthicsEval: Evaluating LLMs Against Australian Mental Health Ethics (Shared Task Overview)**, IJCNLP-AACL 2026 MultiPsyche Workshop, [[paper](https://aclanthology.org/volumes/2026.multipsyche-1/)]
 
 ### 📂 Attitudes&opinions
 - (*Culture*) **Cultural tendencies in generative AI**, 2025.06, Nature Human Behaviour, [[paper](https://www.nature.com/articles/s41562-025-02242-1)]
@@ -389,6 +393,9 @@ This review examines the emerging integration of AI Foundation Models (FMs) into
 - (*Others & custom*) **Are LLMs (Really) Ideological? An IRT-based Analysis and Alignment Tool for Perceived Socio-Economic Bias in LLMs**, 2025.05, [[paper](https://arxiv.org/abs/2503.13149)]
 - (*Others & custom*) **Mind the Gaps: Mixture-of-Minds for Human Simulation**, 2026.08, [[paper](https://arxiv.org/abs/2608.06115)]
 - (*Others & custom*) **MatrAIx: Simulating the World with 8.3 Billion Persona Agents**, 2026.08, [[paper](https://arxiv.org/abs/2608.04205)]
+- (*Others & custom*) **When Can Digital Personas Reliably Approximate Human Survey Findings?**, 2026.05, [[paper](https://arxiv.org/abs/2605.10659)]
+- (*Others & custom*) **From Caricature to Collective Artifact: How Persona Construction Drives Polarization in Generative Social Simulations**, 2026.10, [[paper](https://arxiv.org/abs/2610.16498)]
+- (*Others & custom*) **LLMs as Survey Respondents: Comparison to Simple Semantic Baselines**, 2026.10, [[paper](https://arxiv.org/abs/2610.29645)]
 
 ### 📂 Heuristics & biases
 
@@ -449,6 +456,8 @@ This review examines the emerging integration of AI Foundation Models (FMs) into
 - **Studying and improving reasoning in humans and machines**, 2024.06, Communications Psychology, [[paper](https://www.nature.com/articles/s44271-024-00091-8)]
 
 - **Large Language Models Develop Novel Social Biases Through Adaptive Exploration**, 2026.07, ICML 2026 Oral, [[paper](https://arxiv.org/abs/2511.06148)][[code](https://github.com/addisonwu05/LLM-Natural-Segregation)]
+- **LLM Multi-Agent Systems Are Vulnerable to Herding and Runaway Cascades**, 2026.10, [[paper](https://arxiv.org/abs/2610.30769)]
+- **Test-Time Communication in Trading Agent Swarms**, 2026.10, [[paper](https://arxiv.org/abs/2610.37448)]
 
 ### 📂  Social interactions
 
@@ -527,6 +536,7 @@ This review examines the emerging integration of AI Foundation Models (FMs) into
 - (*Social Intelligence*) **SOTOPIA: Interactive Evaluation for Social Intelligence in Language Agents**, 2023.10, [[paper](https://arxiv.org/abs/2310.11667)] 
 
 - (*Social Intelligence*) **Emergent social conventions and collective bias in LLM populations**, 2025.05, Science Advances, [[paper](https://www.science.org/doi/10.1126/sciadv.adu9368)]
+- (*Theory of Mind*) **Honeyed Words, Hidden Daggers: Benchmarking and Training LLMs to See Through Mock Politeness (ZhenhuanBench)**, 2026.10, [[paper](https://arxiv.org/abs/2610.26059)]
 
 ### 📂  Psychology of language
 
@@ -640,6 +650,7 @@ This review examines the emerging integration of AI Foundation Models (FMs) into
 
 - **Understanding large language models demands distinguishing human projection from machine cognition**, 2026.07, Communications Psychology, [[paper](https://www.nature.com/articles/s44271-026-00508-6)]
 - **Large Language Models Assume People are More Rational than We Really Are**, 2025.04, ICLR 2025 Oral, [[paper](https://arxiv.org/abs/2406.17055)]
+- **Do Semantic Distance Tests Actually Predict Creativity in Large Language Models?**, NeurIPS 2026, [[paper+code](https://github.com/samjschapiro/do-semantic-distance-tests-actually-predict-creativity-neurips-26)]
 
 ### 📂 Reliability and Validity
 
@@ -675,7 +686,12 @@ This review examines the emerging integration of AI Foundation Models (FMs) into
 
 - **A large-scale replication of scenario-based experiments in psychology and management using large language models**, 2025.08, Nature Computational Science, [[paper](https://www.nature.com/articles/s43588-025-00840-7)]
 - **A Theory of Response Sampling in LLMs: Part Descriptive and Part Prescriptive**, 2025.07, ACL 2025 Best Paper, [[paper](https://aclanthology.org/2025.acl-long.1454/)]
+- **Plausible but Not Valid: A Psychometric Audit of LLMs as Synthetic Survey Respondents**, 2026.08, [[paper](https://arxiv.org/abs/2608.14606)]
+- **The Conditional Superiority of Fast Silicon Sampling**, 2026.08, [[paper](https://arxiv.org/abs/2608.14079)]
+- **Can LLM User-Proxies Stand In for Humans in Reliance Measurement? Replicating Rel-A.I. with Simulated Users**, 2026.10, [[paper](https://arxiv.org/abs/2610.25788)]
+- **A Cross-Entropy Audit (CEA) for Consciousness Tests Moved from Brain to Large Language Model**, 2026.11, [[paper](https://arxiv.org/abs/2609.22300)]
 
 ### 📂 Other Applications
 
 - **Towards Personalized Explanations for Health Simulations: A Mixed-Methods Framework for Stakeholder-Centric Summarization**, 2025, [[paper](https://arxiv.org/abs/2509.04646)]
+- **Open Benchmark of AI Impact on Humans (ImpactBench): An Expert-Guided, Open Platform for the Holistic Evaluation of AI Impact on Humans**, 2026.10, [[paper](https://arxiv.org/abs/2610.20690)]

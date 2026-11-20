@@ -652,6 +652,7 @@ This review examines the emerging integration of AI Foundation Models (FMs) into
 - **Understanding large language models demands distinguishing human projection from machine cognition**, 2026.07, Communications Psychology, [[paper](https://www.nature.com/articles/s44271-026-00508-6)]
 - **Large Language Models Assume People are More Rational than We Really Are**, 2025.04, ICLR 2025 Oral, [[paper](https://arxiv.org/abs/2406.17055)]
 - **Do Semantic Distance Tests Actually Predict Creativity in Large Language Models?**, NeurIPS 2026, [[paper+code](https://github.com/samjschapiro/do-semantic-distance-tests-actually-predict-creativity-neurips-26)]
+- **CogBattery: Human-Referenced Evaluation of Cognitive Task Behavior and Structure in Language Models**, 2026.07, [[paper](https://arxiv.org/abs/2607.24999)][[code](https://github.com/dengzhe-hou/CogBattery)]
 
 ### 📂 Reliability and Validity
 

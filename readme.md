@@ -538,6 +538,7 @@ This review examines the emerging integration of AI Foundation Models (FMs) into
 
 - (*Social Intelligence*) **Emergent social conventions and collective bias in LLM populations**, 2025.05, Science Advances, [[paper](https://www.science.org/doi/10.1126/sciadv.adu9368)]
 - (*Theory of Mind*) **Honeyed Words, Hidden Daggers: Benchmarking and Training LLMs to See Through Mock Politeness (ZhenhuanBench)**, 2026.10, [[paper](https://arxiv.org/abs/2610.26059)]
+- (*Theory of Mind*) **Cross-Task Dissociation in Frontier Vision-Language Model Theory of Mind**, EMNLP 2026 Findings, [[paper](https://arxiv.org/abs/2608.00261)]
 
 ### 📂  Psychology of language
 

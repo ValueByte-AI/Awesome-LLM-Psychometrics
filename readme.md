@@ -216,6 +216,8 @@ This review examines the emerging integration of AI Foundation Models (FMs) into
 - (*Big Five*) **Persistent Instability in LLM's Personality Measurements: Effects of Scale, Reasoning, and Conversation History**, 2025, [[paper](https://arxiv.org/abs/2508.04826)]
 - (*Big Five*) **The Personality Illusion: Revealing Dissociation Between Self-Reports & Behavior in LLMs**, 2025.09, [[paper](https://arxiv.org/abs/2509.03730)][[code](https://github.com/psychology-of-AI/Personality-Illusion)]
 - (*Big Five*) **A psychometric framework for evaluating and shaping personality traits in large language models**, 2025.12, Nature Machine Intelligence, [[paper](https://www.nature.com/articles/s42256-025-01115-6)]
+- (*Big Five*) **On the Impact of Item Order and Questionnaire Popularity for Language Model Construct Validity and Cross-Human Alignment**, 2026.10, Discovery Science (DS 2026), [[paper](https://link.springer.com/chapter/10.1007/978-3-032-41086-3_15)]
+- (*Big Five*) **The Unsampled Truth: Quantifying Prompt Artifacts in LM Psychometrics**, EMNLP 2026 Findings, [[paper](https://aclanthology.org/2026.findings-emnlp.1009/)]
 - (*HEXACO*) **On the Psychology of GPT-4: Moderately anxious, slightly masculine, honest, and humble**, 2024.02, [[paper](https://arxiv.org/abs/2402.01777)]
 - (*HEXACO*) **Personality testing of large language models: limited temporal stability, but highlighted prosociality**, 2024.01, Royal Society Open Science, [[paper](https://royalsocietypublishing.org/doi/full/10.1098/rsos.240180)] 
 - (*HEXACO*) **Who is GPT-3? An Exploration of Personality, Values and Demographics**, EMNLP 2022 NLP+CSS workshop, [[paper](https://arxiv.org/abs/2209.14338)]
@@ -241,6 +243,7 @@ This review examines the emerging integration of AI Foundation Models (FMs) into
 - (*DarkTriad*) **Do GPT Language Models Suffer From Split Personality Disorder? The Advent Of Substrate-Free Psychometrics**, 2024.08, [[paper](https://arxiv.org/abs/2408.07377)]
 - (*DarkTriad*) **I'm Sorry Dave: How the old world of personnel security can inform the new world of AI insider risk**, 2025.05, [[paper](https://arxiv.org/abs/2504.00012)]
 - (*DarkTriad*) **Persona Dynamics: Unveiling the Impact of Personality Traits on Agents in Text-Based Games**, 2025.04, [[paper](https://arxiv.org/abs/2504.06868)]
+- (*DarkTriad*) **The Unsampled Truth: Quantifying Prompt Artifacts in LM Psychometrics**, EMNLP 2026 Findings, [[paper](https://aclanthology.org/2026.findings-emnlp.1009/)]
 - (*Others & custom*) **Self-assessment, Exhibition, and Recognition: a Review of Personality in Large Language Models**, 2024.06, [[paper](https://arxiv.org/abs/2406.17624)]
 - (*Others & custom*) **Is Self-knowledge and Action Consistent or Not: Investigating Large Language Model's Personality**, ICML 2024, [[paper](https://arxiv.org/abs/2402.14679)]
 - (*Others & custom*) **Evaluating and Inducing Personality in Pre-trained Language Models**, NeurIPS 2023, [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/21f7b745f73ce0d1f9bcea7f40b1388e-Abstract-Conference.html)]
@@ -249,6 +252,8 @@ This review examines the emerging integration of AI Foundation Models (FMs) into
 - (*Others & custom*) **PersonaBench: Evaluating AI Models on Understanding Personal Information through Accessing (Synthetic) Private User Data**, 2025.02, [[paper](https://arxiv.org/abs/2502.20616)] 
 - (*Others & custom*) **Feedback Forensics: A Toolkit to Measure AI Personality**, NeurIPS 2026 (Datasets & Benchmarks Track), [[paper](https://arxiv.org/abs/2509.26305)][[code](https://github.com/rdnfn/feedback-forensics)]
 - (*Others & custom*) **Who Is Your Ideal Companion? Evaluating Emotional Companion Capabilities of LLMs Based on Adult Attachment Theory (ECBench)**, 2026.08, [[paper](https://arxiv.org/abs/2608.13168)]
+- (*Others & custom*) **Fingerprinting LLMs through Survey Item Factor Correlation: A Case Study on Humor Style Questionnaire**, EMNLP 2025, [[paper](https://aclanthology.org/2025.emnlp-main.13/)]
+- (*Others & custom*) **On the Impact of Item Order and Questionnaire Popularity for Language Model Construct Validity and Cross-Human Alignment**, 2026.10, Discovery Science (DS 2026), [[paper](https://link.springer.com/chapter/10.1007/978-3-032-41086-3_15)]
 - (*DarkTriad*) **Is your LLM an Agressive Narcissist with Depression? Analyzing Psychological Portraits of Large Language Models**, 2026.11, [[paper](https://arxiv.org/abs/2611.02757)]
 
 ### 📂 Values  
@@ -317,6 +322,8 @@ This review examines the emerging integration of AI Foundation Models (FMs) into
 - (*MFT*) **CLAVE: An Adaptive Framework for Evaluating Values of LLM Generated Responses**, NeurIPS 2024, [[paper](https://arxiv.org/abs/2407.10725)] 
 - (*MFT*) **Rethinking Machine Ethics -- Can LLMs Perform Moral Reasoning through the Lens of Moral Theories?**, NAACL 2024 Findings, [[paper](https://arxiv.org/abs/2308.15399)] 
 - (*MFT*) **The Staircase of Ethics: Probing LLM Value Priorities through Multi-Step Induction to Complex Moral Dilemmas**, 2025.05, [[paper](https://arxiv.org/abs/2505.18154)]
+- (*MFT*) **Cultural Bias in Large Language Models: Evaluating AI Agents through Moral Questionnaires**, 2025.07, IACAP/AISB 2025 Symposium on Moral and Legal AI Alignment, [[paper](https://aisb.org.uk/wp-content/uploads/2025/06/AISB-IACAP-Convention2025.pdf#page=64)]
+- (*MFT*) **Political Bias in LLMs: Unaligned Moral Values in Agent-centric Simulations**, 2025.07, Journal for Language Technology and Computational Linguistics (JLCL), [[paper](https://jlcl.org/article/view/289)]
 - (*ETHICS*) **Despite "super-human" performance, current LLMs are unsuited for decisions about ethics and safety**, NeurIPS 2022 Workshop, [[paper](https://arxiv.org/abs/2212.06295)]
 - (*ETHICS*) **Inducing Human-like Biases in Moral Reasoning Language Models**, 2024.11, [[paper](https://arxiv.org/abs/2411.15386)]
 - (*ETHICS*) **An Evaluation of GPT-4 on the ETHICS Dataset**, 2023.09, [[paper](https://arxiv.org/abs/2309.10492)]
@@ -691,6 +698,10 @@ This review examines the emerging integration of AI Foundation Models (FMs) into
 - **The Conditional Superiority of Fast Silicon Sampling**, 2026.08, [[paper](https://arxiv.org/abs/2608.14079)]
 - **Can LLM User-Proxies Stand In for Humans in Reliance Measurement? Replicating Rel-A.I. with Simulated Users**, 2026.10, [[paper](https://arxiv.org/abs/2610.25788)]
 - **A Cross-Entropy Audit (CEA) for Consciousness Tests Moved from Brain to Large Language Model**, 2026.11, [[paper](https://arxiv.org/abs/2609.22300)]
+- **Fingerprinting LLMs through Survey Item Factor Correlation: A Case Study on Humor Style Questionnaire**, EMNLP 2025, [[paper](https://aclanthology.org/2025.emnlp-main.13/)]
+- **On the Impact of Item Order and Questionnaire Popularity for Language Model Construct Validity and Cross-Human Alignment**, 2026.10, Discovery Science (DS 2026), [[paper](https://link.springer.com/chapter/10.1007/978-3-032-41086-3_15)]
+- **The Unsampled Truth: Quantifying Prompt Artifacts in LM Psychometrics**, EMNLP 2026 Findings, [[paper](https://aclanthology.org/2026.findings-emnlp.1009/)]
+- **Challenging the Myth: A Research Arc on LLMs as Human Simulacra**, ACL 2026 Workshop (The Big Picture), [[paper](https://aclanthology.org/2026.bigpicture-main.4/)]
 
 ### 📂 Other Applications
 
